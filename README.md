@@ -1,6 +1,6 @@
 # AutoRefreshComicsList
 
-建议直接用github.io
+建议直接用github.io制作这个项目
 
 打开后直接就是卡片式目录
 
