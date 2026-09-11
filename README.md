@@ -19,3 +19,7 @@ html用url/base64图片做成的类似telegraph的漫画阅读器，此处不包
 示例 BGGComics.github.io ，若要直达某个漫画html，链接则是 BGGComics.github.io/pages/1.html
 
 不知道示例能坚持多久，毕竟github不是云盘，单个文件上限25mb
+
+![首页](1.png)
+
+![单独](2.png)
