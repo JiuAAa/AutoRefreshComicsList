@@ -20,7 +20,7 @@ html用url/base64图片做成的类似telegraph的漫画阅读器，此处不包
 
 不知道示例能坚持多久，毕竟github不是云盘，单个文件上限25mb
 
-喜欢看涩涩漫画的可以支持我的TG频道 [@BGG_Comics][https://t.me/BGG_Comics]
+喜欢看涩涩漫画的可以支持我的TG频道 [@BGG_Comics](https://t.me/BGG_Comics)
 
 ![首页](1.png)
 
